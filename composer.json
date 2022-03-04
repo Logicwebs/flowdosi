@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gathuku/laravelmpesa": "^1.2"
+    }
+}
